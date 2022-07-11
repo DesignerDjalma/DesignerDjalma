@@ -2,7 +2,7 @@
 - 👀 I’m interested in python/Linux stuff
 - 🌱 I’m currently learning some python and linux stuff
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me @...
+- 📫 How to reach me insta:@3djhey
 
 <!---
 DesignerDjalma/DesignerDjalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
