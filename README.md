@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/DesignerDjalma">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marylion&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marylion&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DesignerDjalma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesignerDjalma&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 - 👀 I’m interested in python/Linux stuff and I like to edit photos/videos and Make some cool 3D stuff
