@@ -15,9 +15,9 @@
 - ✨ Studyng to become a FULLSTACK dev!
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me insta: @3Djhey
-
-<div style="display: inline_block"><br>
-    
+  
+  <div style="display: inline_block"><br>
+<div align="center">
   <img align="center" height="30" width="40" alt="logo-vscode-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" alt="logo-html5-original" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" alt="logo-css3-original" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -34,3 +34,10 @@
 DesignerDjalma/DesignerDjalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
+  
+  <div align="center">
+  <h3>Atualmente atuo como Desenvolvedor GIS em</h3>
+  <img height="150em" src="https://youxgroup.com.br/wp-content/uploads/2021/07/logosite.png"/>
+  </div>
+  
