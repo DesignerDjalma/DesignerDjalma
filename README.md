@@ -1,33 +1,40 @@
 <h1 align="center">
 
 - 👋 Hi, Eu sou Djalma Filho
+# 👋 Olá! Sou Djalma Ferreira de Lima Filho
 
-</h1>
+## 🌍 Desenvolvedor GIS | Especialista em Python e Automação
 
-<div align="center">
-  <a href="https://github.com/DesignerDjalma">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DesignerDjalma&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesignerDjalma&layout=compact&langs_count=7&theme=maroongold"/>
-</div>
+Com sólida experiência em ArcGIS, QGIS, Python e JavaScript (diversas bibliotecas e frameworks) e desenvolvimento de APIs REST, Banco de Dados e Analise de Dados, estou sempre em busca de novos projetos para aplicar minhas habilidades e contribuir para projetos desafiantes na área de geotecnologias.
 
-- 👀 I’m interested in python/Linux stuff and I like to edit photos/videos and Make some cool 3D stuff
-- 🌱 I’m currently learning some linux, HTML, CSS, JavaScript, C# and SQL/noSQL techs.
-- ✨ Studyng to become a FULLSTACK dev!
-- 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me insta: @3Djhey
-  
-  <div style="display: inline_block"><br>
+## 🚀 O que eu faço
 
-  <img align="center" height="30" width="40" alt="logo-vscode-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-html5-original" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-css3-original" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-figma-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-javascript-plain" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" alt="logo-python-original" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-postgresql-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-blender-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-  <img align="center" height="30" width="40" alt="logo-csharp-original" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+- **Automação com Python:** Desenvolvo Scripts, Ferramentas e Plugins para automação de Processos usando **Python** e bibliotecas como **Arcpy**, **Pandas**, **GeoPandas**, **Fiona**, **Numpy**, **OpenPyXL**, **ReportLAB**, **pyton-docx**, **Matplotlib** e muitas outras.
+- **Back-End (Desenvolvimento de Servidores e APIs REST):** Configuro servidores e desenvolvo APIs REST usando **Python** para gerenciar dados e fornecer serviços geoespaciais integrados. Isso inclui a administração de dados espaciais em bancos como **PostgreSQL/PostGIS**, a criação de endpoints e a manutenção de servidores para garantir escalabilidade e eficiência.
+- **Front-End (Desenvolvimento de Interfaces com React):** Desenvolvo interfaces interativas e dinâmicas usando **React**, integrando componentes personalizados e otimizados para plataformas web GIS, com foco em usabilidade e performance. Conecto essas interfaces aos servidores e APIs, criando soluções completas e funcionais.
+- **Manipulação de Dados:** Trabalho com bancos de dados espaciais, como **PostgreSQL/PostGIS**, e utilizo ferramentas como **DBeaver** para consultas e manutenção de dados.
+- **Visualização de Dados:** Utilizo **Metabase** para criar dashboards e relatórios interativos, facilitando a análise e interpretação de dados complexos, permitindo a tomada de decisões baseada em dados.
+- **Programação Full-Stack:** Atuo tanto no **back-end** quanto no **front-end**, conectando servidores, APIs e bancos de dados, enquanto crio interfaces responsivas e interativas que otimizam a experiência do usuário em aplicações web GIS.
 
+## 🔧 Tecnologias e Ferramentas
+
+- **Linguagens de Programação:** Python, JavaScript
+- **Software GIS:** ArcGIS (Desktop, Pro, Online), QGIS
+- **Bibliotecas Python:** Arcpy, Pandas, GeoPandas, Numpy, Fiona, Matplotlib
+- **APIs e REST:** Desenvolvimento e integração de APIs REST
+- **Ferramentas de Banco de Dados:** PostgreSQL/PostGIS
+
+## 📈 Projetos Recentes
+
+- **Ferramenta ArcpyAutoMap:** Desenvolvimento de Python Toolboxes e scripts personalizados para automação de fluxos de trabalho no ArcGIS Pro.
+
+## 📬 Vamos Conectar
+
+Estou sempre aberto a novas oportunidades e colaborações. Se você está interessado em discutir projetos, oportunidades de trabalho ou apenas trocar ideias sobre geotecnologias e programação, sinta-se à vontade para entrar em contato.
+
+- **Email:** devdjalma@gmail.com
+- **LinkedIn:** [Djalma Ferreira de Lima Filho](https://www.linkedin.com/in/djalma-ferreira-de-lima-filho-05a7b6187/)
+- **GitHub:** [github.com/seu-usuario](https://github.com/DesignerDjalma)
 
 
 <!---
@@ -36,8 +43,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
   
-  
-  <h3>Atualmente atuo como Desenvolvedor GIS em</h3>
-  <img height="150em" src="https://youxgroup.com.br/wp-content/uploads/2021/07/logosite.png"/>
+
   
   
