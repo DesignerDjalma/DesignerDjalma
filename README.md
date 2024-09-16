@@ -1,6 +1,5 @@
 <h1 align="center">
 
-- 👋 Hi, Eu sou Djalma Filho
 # 👋 Olá! Sou Djalma Ferreira de Lima Filho
 
 ## 🌍 Desenvolvedor GIS | Especialista em Python e Automação
